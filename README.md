@@ -21,8 +21,6 @@
 ## Project Contents
 
 - Library (Cobalt.Modbus)
-- Background worker service (Cobalt.Modbus.Reader)
-- Web User interface to setup and access a device (Cobalt.Modbus.WebUI)
 
 ## Simulators Tested
 - https://sourceforge.net/projects/pymodslave/ pymodslave
