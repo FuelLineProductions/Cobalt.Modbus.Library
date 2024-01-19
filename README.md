@@ -24,6 +24,7 @@
 
 ## Simulators Tested
 - https://sourceforge.net/projects/pymodslave/ pymodslave
-
+- https://www.modbusdriver.com/diagslave.html
+  
 ## Devices Tested
 TODO
